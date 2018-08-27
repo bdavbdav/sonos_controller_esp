@@ -91,7 +91,7 @@ void setup() {
   Serial.println("");
   Serial.println("LOLSONOS");
 
-  lcd.print("NuimoSucks v0.1a");
+  lcd.print("Sonos Remote v0.1a");
   lcd.setCursor(0,1);
   lcd.print("Initial Boot!");
 
