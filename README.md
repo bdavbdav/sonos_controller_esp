@@ -3,7 +3,9 @@ ESP8266 Controller for Sonos
 
 Runs on ESP8266/NodeMCU / Derivative boards.
 
-Requires WemosSonos libs. 
+Libraries Required:
+*   WemosSonos
+*   LiquidCrystalI2C
 
 Default button GPIO IDs: (!NOT! same as pin numbers / labeling for GPIO on many boards):
 *   BTN_PLAY = 12;
