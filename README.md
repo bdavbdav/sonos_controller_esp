@@ -17,4 +17,4 @@ Default button GPIO IDs: (!NOT! same as pin numbers / labeling for GPIO on many 
 <TODO> TODO: Include credits for many sources / libs etc included from other projects. Include.
 
 
-Thanks to (Much code borrowed from) [WemosSonos](https://github.com/bopeterson/WemosSonos) and all their dependent libraries:
+Thanks to (Much code borrowed from) [WemosSonos](https://github.com/bopeterson/WemosSonos) and all their dependent libraries. 
